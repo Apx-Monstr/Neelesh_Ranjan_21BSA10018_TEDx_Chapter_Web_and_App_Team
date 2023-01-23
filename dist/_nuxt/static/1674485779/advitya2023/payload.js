@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/advitya2023", {data:[{}],fetch:{},mutations:void 0});
