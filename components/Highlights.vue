@@ -11,13 +11,13 @@
 					<div class="border-b border-gray-700 mb-4">
 						<ul class="flex flex-wrap -mb-px justify-center" id="myTab" data-tabs-toggle="#myTabContent" role="tablist">
 							<li class="mr-2" role="presentation">
-								<button class="inline-block text-gray-500 hover:text-gray-600 hover:border-gray-300 rounded-t-lg py-4 px-4 font-medium text-center border-transparent border-b-2 text-gray-400 hover:text-gray-300 active" id="eve1-tab" data-tabs-target="#eve1" type="button" role="tab" aria-controls="eve1" aria-selected="false">Event 1</button>
+								<button class="inline-block text-gray-500 hover:text-gray-600 hover:border-gray-300 rounded-t-lg py-4 px-4 font-medium text-center border-transparent border-b-2 text-gray-400 hover:text-gray-300 active" id="eve1-tab" data-tabs-target="#eve1" type="button" role="tab" aria-controls="eve1" aria-selected="false">Future of Work</button>
 							</li>
 							<li class="mr-2" role="presentation">
-								<button class="inline-block text-gray-500 hover:text-gray-600 hover:border-gray-300 rounded-t-lg py-4 px-4 font-medium text-center border-transparent border-b-2 text-gray-400 hover:text-gray-300" id="eve2-tab" data-tabs-target="#eve2" type="button" role="tab" aria-controls="eve2" aria-selected="true">Event 2</button>
+								<button class="inline-block text-gray-500 hover:text-gray-600 hover:border-gray-300 rounded-t-lg py-4 px-4 font-medium text-center border-transparent border-b-2 text-gray-400 hover:text-gray-300" id="eve2-tab" data-tabs-target="#eve2" type="button" role="tab" aria-controls="eve2" aria-selected="true">Mind and Machine</button>
 							</li>
 							<li class="mr-2" role="presentation">
-								<button class="inline-block text-gray-500 hover:text-gray-600 hover:border-gray-300 rounded-t-lg py-4 px-4 font-medium text-center border-transparent border-b-2 text-gray-400 hover:text-gray-300" id="eve3-tab" data-tabs-target="#eve3" type="button" role="tab" aria-controls="eve3" aria-selected="false">Event 3</button>
+								<button class="inline-block text-gray-500 hover:text-gray-600 hover:border-gray-300 rounded-t-lg py-4 px-4 font-medium text-center border-transparent border-b-2 text-gray-400 hover:text-gray-300" id="eve3-tab" data-tabs-target="#eve3" type="button" role="tab" aria-controls="eve3" aria-selected="false">Metaverse for Everybody</button>
 							</li>
 						</ul>
 					</div>

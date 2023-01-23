@@ -55,22 +55,9 @@ export default {
                     "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format"
                 ],
             ]
-            // let msg = {
-            //     name:"Advitya 2022",
-            //     sdesc:"",
-            //     full:"",
-            //     date:"",
-            //     time:"",
-            //     speakers:[]
-            // }
             await db.set(msg)
         }
     },
-    beforeMount(){
-        // this.getData();
-        // this.$fire.database.ref("/events")
-        // this.uploadData()
-    }
 }
 </script>
 <style >

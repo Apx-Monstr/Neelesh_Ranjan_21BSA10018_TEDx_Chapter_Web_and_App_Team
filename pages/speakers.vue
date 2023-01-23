@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class = "relative h-[calc(100vh-100px)]">
-            <div class="-z-10 absolute sec h-full w-[460px] right-0 top-0 bg-green-600">
+            <div class="-z-10 absolute sec h-full w-[460px] right-0 top-0">
             </div>
             <div class = "m-auto max-w-screen-xl h-full w-full flex">
                 <div class=" flex flex-1 my-auto items-center">
