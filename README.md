@@ -5,7 +5,7 @@
 
 [TedxVitBhopal](https://tedxvitb.netlify.app/)
 
-This website just a test website create for a sample
+This website is just a test website create for a sample
 
 ## Build Setup
 
