@@ -1,4 +1,11 @@
+
 # tedx-vitb
+
+## Sample Visit URL (Only For Test Purpose)
+
+[TedxVitBhopal](https://tedxvitb.netlify.app/)
+
+This website have is just a test website create for a sample
 
 ## Build Setup
 
